@@ -1,0 +1,11 @@
+﻿  Demo_Main.cpp
+d:\cce\data structure\project\dsproject_code_s2018\gui\gui.h(27): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+d:\cce\data structure\project\dsproject_code_s2018\gui\gui.h(28): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+d:\cce\data structure\project\dsproject_code_s2018\data structures\linkedlist.h(25): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  d:\cce\data structure\project\dsproject_code_s2018\data structures\linkedlist.h(27): note: see reference to class template instantiation 'LinkedList<ItemType>' being compiled
+d:\cce\data structure\project\dsproject_code_s2018\data structures\linkedlist.h(35): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+d:\cce\data structure\project\dsproject_code_s2018\data structures\queue.h(29): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  d:\cce\data structure\project\dsproject_code_s2018\data structures\queue.h(31): note: see reference to class template instantiation 'Queue<T>' being compiled
+d:\cce\data structure\project\dsproject_code_s2018\data structures\queue.h(77): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+d:\cce\data structure\project\dsproject_code_s2018\demo_main.cpp(121): warning C4101: 'Reg': unreferenced local variable
+  CastleDSProject.vcxproj -> D:\CCE\Data Structure\Project\DSProject_Code_S2018\.\Debug\CastleDSProject.exe
